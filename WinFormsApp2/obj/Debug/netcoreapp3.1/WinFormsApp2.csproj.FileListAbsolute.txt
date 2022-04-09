@@ -1,0 +1,16 @@
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form2.resources
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Properties.Resources.resources
+C:\Users\a_mer\source\repos\WinFormsApp1\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache

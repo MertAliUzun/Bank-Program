@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "WinFormsApp2": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "WinFormsApp2/1.0.0": {
+        "runtime": {
+          "WinFormsApp2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
